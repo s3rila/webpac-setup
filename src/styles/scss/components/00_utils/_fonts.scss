@@ -1,0 +1,21 @@
+/*
+* font-family: 'Montserrat', sans-serif;
+* font-family: 'Roboto', sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700|Roboto:400,500&display=swap');
+
+/*
+*Icons
+*
+* when addind new icons : 
+* replace `./icons` by `../../../../assets/icons/icon-dist/icons` or just the string checksum version number
+*
+*/
+@font-face {
+    font-family: 'icons';
+    src: url('../../../../assets/icons/icon-dist/icons.eot?a50a85778544baf4276c14ed3cf5e5b2?#iefix') format('embedded-opentype'),
+        url('../../../../assets/icons/icon-dist/icons.woff2?a50a85778544baf4276c14ed3cf5e5b2') format('woff2'),
+        url('../../../../assets/icons/icon-dist/icons.woff?a50a85778544baf4276c14ed3cf5e5b2') format('woff'),
+        url('../../../../assets/icons/icon-dist/icons.ttf?a50a85778544baf4276c14ed3cf5e5b2') format('truetype'),
+        url('../../../../assets/icons/icon-dist/icons.svg?a50a85778544baf4276c14ed3cf5e5b2#icons') format('svg');
+}

@@ -1,6 +1,11 @@
-# henripotier_1
+# Webpack empty setup
 
-Henri Potier Exercice
+_has :_
+
+- Typescript
+- Scss
+- Babel
+- PostCSS
 
 ### Install dependencies
 

@@ -1,7 +1,6 @@
 @import "components/00_utils/fonts";
 
-@import "normalize-scss";
-@include normalize();
+@import "lib/normalize";
 
 @import "~media-blender";
 
